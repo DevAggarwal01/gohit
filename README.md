@@ -14,3 +14,4 @@
 - Reminders for schedule match times
 - Push notifications / alerts
 - A map used to visualize placement of users as well as perhaps tennis courts
+# NOTE: NOT ALL CODE IS AVAILABLE FOR SECURITY PURPOSES
