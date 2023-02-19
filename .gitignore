@@ -47,3 +47,4 @@ app.*.map.json
 /android/app/release
 Users/devaggarwal/Documents/Flutter/gohit-public/ios/Runner/GoogleService-Info.plist
 Users/devaggarwal/Documents/Flutter/gohit-public/ios/Runner/Info.plist
+Users/devaggarwal/Documents/Flutter/gohit-public/package-lock.json
