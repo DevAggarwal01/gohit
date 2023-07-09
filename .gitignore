@@ -48,3 +48,4 @@ app.*.map.json
 Users/devaggarwal/Documents/Flutter/gohit-public/ios/Runner/GoogleService-Info.plist
 Users/devaggarwal/Documents/Flutter/gohit-public/ios/Runner/Info.plist
 Users/devaggarwal/Documents/Flutter/gohit-public/package-lock.json
+/Users/devaggarwal/Documents/Flutter/gohit-private/lib/server_key.dart
