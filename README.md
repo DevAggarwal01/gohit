@@ -9,9 +9,9 @@
 - Settings (changing user info, deleting account, etc.)
 - Player profiles
 - A successfully working database that allows for retrieval, creation, and restriction of data in order to maintain functionality of the app
+- Push notifications / alerts for messages as part of in-app texting
+- Personal reminders for scheduled match times, also shareable with other users
 ## TO-DO
 - A schedule, both for planning and for finding others available at the same time
-- Reminders for schedule match times
-- Push notifications / alerts
 - A map used to visualize placement of users as well as perhaps tennis courts
 # NOTE: NOT ALL CODE IS AVAILABLE FOR SECURITY PURPOSES
