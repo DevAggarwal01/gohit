@@ -16,7 +16,7 @@ As a long-time tennis player, I have personally experienced the problem of findi
 - A schedule, both for planning and for finding others available at the same time.
 - A map used to visualize placement of users as well as perhaps tennis courts.
 
-# Screenshots
+# The App Unveiled ...
 Here are some screenshots showcasing the app:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="screenshots/gohit1.webp" alt="Screenshot 1" width="23%">
