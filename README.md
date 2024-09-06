@@ -20,7 +20,7 @@ As a long-time tennis player, I have personally experienced the problem of findi
 Here are some screenshots showcasing the app:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="screenshots/gohit1.webp" alt="Screenshot 1" width="23%">
-  <img src="screenshots/gohit2.webpg" alt="Screenshot 2" width="23%">
+  <img src="screenshots/gohit2.webp" alt="Screenshot 2" width="23%">
   <img src="screenshots/gohit3.webp" alt="Screenshot 3" width="23%">
   <img src="screenshots/gohit4.webp" alt="Screenshot 4" width="23%">
   <img src="screenshots/gohit5.webp" alt="Screenshot 5" width="23%">
