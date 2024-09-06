@@ -20,5 +20,10 @@ As a long-time tennis player, I have personally experienced the problem of findi
 Here are some screenshots showcasing the app:
 
 ![Screenshot 1](screenshots/gohit1.webp)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 2](screenshots/gohit2.webp)
+![Screenshot 3](screenshots/gohit3.webp)
+![Screenshot 3](screenshots/gohit4.webp)
+![Screenshot 3](screenshots/gohit5.webp)
+![Screenshot 3](screenshots/gohit6.webp)
+![Screenshot 3](screenshots/gohit7.webp)
+![Screenshot 3](screenshots/gohit8.webp)
