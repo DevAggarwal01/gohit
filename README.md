@@ -18,12 +18,13 @@ As a long-time tennis player, I have personally experienced the problem of findi
 
 # Screenshots
 Here are some screenshots showcasing the app:
-
-![Screenshot 1](screenshots/gohit1.webp)
-![Screenshot 2](screenshots/gohit2.webp)
-![Screenshot 3](screenshots/gohit3.webp)
-![Screenshot 3](screenshots/gohit4.webp)
-![Screenshot 3](screenshots/gohit5.webp)
-![Screenshot 3](screenshots/gohit6.webp)
-![Screenshot 3](screenshots/gohit7.webp)
-![Screenshot 3](screenshots/gohit8.webp)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="screenshots/gohit1.webp" alt="Screenshot 1" width="23%">
+  <img src="screenshots/gohit2.webpg" alt="Screenshot 2" width="23%">
+  <img src="screenshots/gohit3.webp" alt="Screenshot 3" width="23%">
+  <img src="screenshots/gohit4.webp" alt="Screenshot 4" width="23%">
+  <img src="screenshots/gohit5.webp" alt="Screenshot 5" width="23%">
+  <img src="screenshots/gohit6.webp" alt="Screenshot 6" width="23%">
+  <img src="screenshots/gohit7.webp" alt="Screenshot 7" width="23%">
+  <img src="screenshots/gohit8.webp" alt="Screenshot 8" width="23%">
+</div>
