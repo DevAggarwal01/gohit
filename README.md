@@ -28,4 +28,5 @@ Here are some screenshots showcasing the app:
   <img src="screenshots/gohit7.webp" alt="Screenshot 7" width="23%">
   <img src="screenshots/gohit8.webp" alt="Screenshot 8" width="23%">
 </div>
+
 # NOTE: NOT ALL CODE IS AVAILABLE FOR SECURITY PURPOSES
